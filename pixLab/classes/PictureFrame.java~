@@ -18,7 +18,7 @@ public class PictureFrame
   ImageIcon imageIcon = new ImageIcon();
   
   /** Label used to display the picture */
- private JLabel label = new JLabel(imageIcon);
+  private JLabel label = new JLabel(imageIcon);
   
   /** Digital Picture to display */
   private DigitalPicture picture;
